@@ -1,0 +1,175 @@
+.div1{
+    position: relative;
+    border: solid 2px ;
+    padding-left: 10px;
+}
+.div2{
+    position: fixed ;
+   
+    background-color:blue ;
+    z-index: 1;
+    margin-bottom: 40px;
+    color: #ffff;
+    width: 100%;
+    padding-left: 10px;
+}
+.div3{
+    background-color:aquamarine ;
+    
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -60px;
+    width: 40%;
+    height: 10%;
+    padding-left: 10px;
+   
+}
+.div8{
+    padding-top: 60px;
+    height: 200px;
+}
+.div4{
+position: absolute;
+background-color: blue;
+color: #ffff;
+z-index: 1;
+width: 20%;
+height: 20%;
+border-radius: 10%;
+
+
+
+
+}
+.div5{
+    position: absolute; 
+    background-color: red;
+    color: #ffff;
+    z-index: 2;
+    width: 20%;
+    height: 20%;
+    margin-top: 8px;
+    margin-left: 14px;
+    border-radius: 10%;
+    
+}
+.div6{
+    position: absolute;
+    background-color: rgb(241, 241, 71);
+    color: #ffff;
+    z-index: 3;
+    width: 20%;
+    height: 20%;
+    margin-top: 16px;
+    margin-left: 28px;
+    border-radius: 10%;
+}
+.div7{
+    position: absolute;
+    background-color: green;
+    color: #ffff;
+    z-index: 4;
+    width: 20%;
+    height: 20%;
+    margin-top: 24px;
+    margin-left: 42px;
+    border-radius: 10%;
+    
+}
+.div13{
+    height: 400px;
+}
+
+
+
+.div9{
+    position: absolute; 
+    background-color: rgb(219, 118, 118);
+    color: #ffff;
+    z-index: 1;
+    width: 20%;
+    height: 20%;
+    
+}
+.div10{
+    position: absolute; 
+    background-color: rgb(105, 197, 210);
+    color: #ffff;
+    z-index: 2;
+    width: 20%;
+    height: 20%;
+    margin-left: 300px;
+}
+.div11{
+    position: absolute; 
+    background-color: rgb(161, 240, 116);
+    color: #ffff;
+    z-index: 3;
+    width: 20%;
+    height: 20%;
+    margin-top: 300px;
+}
+.div12{
+    position: absolute; 
+    background-color: rgb(224, 147, 239);
+    color: #ffff;
+    z-index: 4;
+    width: 20%;
+    height: 20%;
+    margin-left: 300px;
+    margin-top: 300px;
+}
+.div14 div{
+    
+    background-color: rgb(224, 147, 239);
+    color: #ffff;
+    z-index: 4;
+    width: 15%;
+    height: 10%;
+    text-align: center;
+    border-radius: 10%;
+}
+.div15{
+    overflow: scroll;
+    height:300px
+}
+.div15 img{
+position: fixed;
+width: 60px;
+
+}
+.div15 div{
+    padding-left: 70px;
+}
+.div16 ul{
+    position: sticky;
+    display: flex;
+    height: 40px;
+    padding-top: 20px;
+    background-color: rgb(143, 136, 136);
+}
+.div16 li{
+    list-style: none;
+    padding-left: 10px;
+}
+.div17{
+    text-align: center;
+    
+}
+.img1{
+    
+    position: absolute;
+
+}
+.img2{
+  
+    position: absolute;
+}
+.img3{
+  
+    position: absolute;
+}
+.img4{
+    z-index:4 ;
+    position: absolute;
+}

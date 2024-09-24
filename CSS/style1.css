@@ -1,0 +1,227 @@
+.div1 p{
+    background-color: yellow;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    width: 400px;
+}
+.ul-1{
+    display:flex ;
+    list-style: none;
+}
+.li1{
+  border: 2px solid black;
+  margin: 4px;
+  width: 500px;
+  text-align: center;
+ padding: 6px 0px 6px 0px;
+ 
+}
+.div2{
+    background-color: antiquewhite;
+}
+.ul-2{
+    list-style: none;
+}
+.li2{
+    border: ridge black;
+    margin: 4px;
+  width: 150px;
+ padding: 6px 0px 6px 0px;
+}
+.li3{
+    border:  solid black;
+    margin: 4px;
+  width: 150px;
+ padding: 6px 0px 6px 0px;
+}
+.li4{
+    border: double black;
+    margin: 4px;
+  width: 150px;
+ padding: 6px 0px 6px 0px;
+}
+.div3 p{
+    box-shadow: 5px 5px;
+    box-sizing: 300px;
+    width: 300px;
+    border: solid black;
+}
+.div4{
+    border: 4px solid ;
+background-color: yellow;
+padding: 10px;
+}
+.div5{
+    border: 2px solid;
+    background-color: yellow;
+    padding: 10px;
+    margin: 30px;
+}
+.div6{
+    border: 12px rgb(234, 178, 104) ridge;
+    width: 400px;
+    margin: 80px;
+}
+.div8{
+    background-color:rgb(0, 229, 255);
+    height: 50px;
+}
+.div9{
+    height: 50px;
+    background-color: rgb(248, 144, 229);
+    margin-top: 4px;
+}
+.div7 button{
+    background-color: rgb(44, 161, 97);
+    color: aliceblue;
+    
+    border: 1px solid rgb(44, 161, 97);
+    border-radius: 5%;
+    width: 30%;
+    height: 48px;
+}
+.div7 {
+    text-align: center;
+   
+}
+.div10{
+   background-color: black;
+   text-align: center;
+   width: 500px;
+   height: 200px;
+   padding-top:100px ;
+}
+.div10 p{
+    background-color: #ffff;
+   color: black;
+   width: 200px;
+   height: 100px;
+    margin-left: 130px;
+    text-align: center;
+    padding-top: 60px;
+    
+}
+.div11 p{
+    border:2px solid #2055d2;
+    width: 130px;
+    padding: 32px;
+    box-shadow: 1px 1px red ,
+     2px 2px rgb(192, 192, 17),
+     3px 3px green,
+     4px 4px purple
+     ; 
+}
+.p1{
+    border-bottom:2px dotted ;
+    border-top:2px dotted;
+    border-left:2px solid ;
+    border-right:2px solid;
+}
+.p2{
+    border-bottom:2px dotted ;
+    border-top: 2px solid;
+    border-right:2px solid ;
+    border-left:2px dotted;
+}
+.p3{
+    border: 1px dotted;
+
+}
+.p4{
+    border: 2px solid ;
+    
+}
+.p5{
+    border: 2px solid blue;
+}
+.p6{
+    border-top: 2px solid green;
+    border-bottom: 2px dotted green;
+    border-left: 2px solid green;
+    border-right:2px solid blue ;
+}
+.div12 p{
+    background-color: yellow;
+    border: dashed 4px orange;
+    overflow: scroll;
+    height:100px ;
+    width:250px ;
+    padding: 10px;
+}
+.div12 img{
+    border:ridge 8px orange;
+    width:250px ;
+}
+.div18 nav{
+    background-color: rgb(177, 180, 180);
+    height: 62px;
+border-radius: 5%;
+
+}
+.div18 ul{
+display: flex;
+list-style: none;
+justify-content: center;
+padding-top: 20px;
+}
+.div18 li{
+    text-align: center;
+    padding-left: 10px;
+    color: #ffff;
+}
+.div19 nav{
+    background-color: rgb(146, 145, 145);
+   display: flex; 
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+.div19 p{
+   padding-left: 8px;
+   color: #ffff;
+}
+.div19{
+    background-image: url(../assest/back3.jpg);
+    border: 2px solid #0000;
+    box-sizing: content-box;
+   
+}
+.div19 h2{
+    padding-left: 470px;
+}
+.div19 button{
+margin-left: 580px;
+background-color: yellow;
+color: black;
+border: #ffff;
+border-radius: 30%;
+
+}
+.div20{
+   padding-left: 400px;
+   padding-top: 20px;
+    
+    
+}
+.div20 img{
+    border: 4px solid #0000;
+   width: 200px;
+   height: 200px;
+   border:6px #0000 solid;
+   border-radius: 20%;
+}
+.div22{
+    display: flex;
+
+    justify-content: center;
+   
+    align-items: center;
+
+}
+.div22 img{
+    border-radius: 10%;
+    border: solid;
+    margin-left: 20px;
+}
